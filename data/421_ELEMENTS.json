@@ -1,0 +1,1757 @@
+[
+  {
+      "expressID": 75,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "2c9g4ZLgH7zALAcz8RoPAQ"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 74
+      },
+      "Name": {
+          "type": 1,
+          "value": "351 Dedusting pipe BF410"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 2567
+      },
+      "Representation": {
+          "type": 5,
+          "value": 2560
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 2569,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "2o50rOBSPFYgOLhmWUZpIg"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 2568
+      },
+      "Name": {
+          "type": 1,
+          "value": "351 Airslide AS360"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 7130
+      },
+      "Representation": {
+          "type": 5,
+          "value": 7125
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 7132,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "1O3tM$SBzECA7VhghW91BW"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 7131
+      },
+      "Name": {
+          "type": 1,
+          "value": "351 Airslide Fan FN361"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 22314
+      },
+      "Representation": {
+          "type": 5,
+          "value": 22309
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 22316,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "1ZZrxRLg15ABnasDgEapvE"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 22315
+      },
+      "Name": {
+          "type": 1,
+          "value": "351 Bucket elevator Drive BE340"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 26446
+      },
+      "Representation": {
+          "type": 5,
+          "value": 26441
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 26448,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "1m8QCWoqX3pwoGpgJAPmTT"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 26447
+      },
+      "Name": {
+          "type": 1,
+          "value": "351 CE1 Duct BF410"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 29752
+      },
+      "Representation": {
+          "type": 5,
+          "value": 29747
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 29754,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "1E5FUAd4X6yesIlxKGN3om"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 29753
+      },
+      "Name": {
+          "type": 1,
+          "value": "351 CE1 Ladder BF410"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 35525
+      },
+      "Representation": {
+          "type": 5,
+          "value": 35520
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 35527,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "2JG9eCwuT7SPNSVO2QaW9C"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 35526
+      },
+      "Name": {
+          "type": 1,
+          "value": "351 Chute1 XA910"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 39132
+      },
+      "Representation": {
+          "type": 5,
+          "value": 39127
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 39134,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "0If6QzU6r3a9NizqkfhJ06"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 39133
+      },
+      "Name": {
+          "type": 1,
+          "value": "351 Chute1 XA910"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 42739
+      },
+      "Representation": {
+          "type": 5,
+          "value": 42734
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 42741,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "0bjDe8NBf7iwv11X0ua233"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 42740
+      },
+      "Name": {
+          "type": 1,
+          "value": "351 Chute2 XA910"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 43063
+      },
+      "Representation": {
+          "type": 5,
+          "value": 43058
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 43065,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "02aIFUd4f0pOj4$xwpnnQf"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 43064
+      },
+      "Name": {
+          "type": 1,
+          "value": "351 Chute3 XA910"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 45443
+      },
+      "Representation": {
+          "type": 5,
+          "value": 45438
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 45445,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "1I8W3vsuPEWATgQxyhIBij"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 45444
+      },
+      "Name": {
+          "type": 1,
+          "value": "351 Chute4 XA910"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 45660
+      },
+      "Representation": {
+          "type": 5,
+          "value": 45655
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 45662,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "2QyXWg3Zz6WuU3lhUqZG2Q"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 45661
+      },
+      "Name": {
+          "type": 1,
+          "value": "351 Double sluice flap BF410"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 50023
+      },
+      "Representation": {
+          "type": 5,
+          "value": 50018
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 50025,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "0HN3FemTbD6v1Fy6irR96l"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 50024
+      },
+      "Name": {
+          "type": 1,
+          "value": "351 Duct XA390"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 53010
+      },
+      "Representation": {
+          "type": 5,
+          "value": 53005
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 53012,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "2suDA0xRfFXQvuXKt_qQJh"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 53011
+      },
+      "Name": {
+          "type": 1,
+          "value": "351 Electric hoist EH341"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 95403
+      },
+      "Representation": {
+          "type": 5,
+          "value": 95398
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 95405,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "26CeQnCYfCKOqKEkkUKK0t"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 95404
+      },
+      "Name": {
+          "type": 1,
+          "value": "351 Fan BF410"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 100411
+      },
+      "Representation": {
+          "type": 5,
+          "value": 100406
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 100413,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "1to_5N0M19LQLTLZBAhSdL"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 100412
+      },
+      "Name": {
+          "type": 1,
+          "value": "351 Fan FN388"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 107679
+      },
+      "Representation": {
+          "type": 5,
+          "value": 107674
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 107681,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "3_xXHnkL96Yxpi62hiKNcd"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 107680
+      },
+      "Name": {
+          "type": 1,
+          "value": "351 Ladder EH051"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 137062
+      },
+      "Representation": {
+          "type": 5,
+          "value": 137057
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 137064,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "0sEhAHhPT99fPFX3R8FmYA"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 137063
+      },
+      "Name": {
+          "type": 1,
+          "value": "351 Monorail platform EH051"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 137183
+      },
+      "Representation": {
+          "type": 5,
+          "value": 137178
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 137185,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "0_melh3uDCrg1bx$S9cJSf"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 137184
+      },
+      "Name": {
+          "type": 1,
+          "value": "351 Roof Kiln Feed Building"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 166872
+      },
+      "Representation": {
+          "type": 5,
+          "value": 166867
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 166874,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "2WHoWxQmrBnwn4GHMN15dW"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 166873
+      },
+      "Name": {
+          "type": 1,
+          "value": "351 Rotary Airlock RF370"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 179437
+      },
+      "Representation": {
+          "type": 5,
+          "value": 179432
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 179439,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "2jK6bukMXBnuVNXFCbMfms"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 179438
+      },
+      "Name": {
+          "type": 1,
+          "value": "351 Silencer Inlet BF410"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 180035
+      },
+      "Representation": {
+          "type": 5,
+          "value": 180030
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 180037,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "1gcMiYERL6o8sqm6HQY7oW"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 180036
+      },
+      "Name": {
+          "type": 1,
+          "value": "351 Sluice flap FV375"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 185458
+      },
+      "Representation": {
+          "type": 5,
+          "value": 185453
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 185460,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "0colMW8dn3GQpk21UXx_7t"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 185459
+      },
+      "Name": {
+          "type": 1,
+          "value": "351 VM7 monoriel"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 185685
+      },
+      "Representation": {
+          "type": 5,
+          "value": 185680
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 185687,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "0vfo$7GVTFQwn7rbVa3UCb"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 185686
+      },
+      "Name": {
+          "type": 1,
+          "value": "421 Barandas N7"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 364482
+      },
+      "Representation": {
+          "type": 5,
+          "value": 364477
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 364484,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "2q_wt87NLETOUTjEvQxAyZ"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 364483
+      },
+      "Name": {
+          "type": 1,
+          "value": "421 Calcinador MOD 8, 9"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 533223
+      },
+      "Representation": {
+          "type": 5,
+          "value": 533218
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 533225,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "0rRZr1mWzAPw2J3_twU$db"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 533224
+      },
+      "Name": {
+          "type": 1,
+          "value": "421 Plataforma BE340 136.40m"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 701897
+      },
+      "Representation": {
+          "type": 5,
+          "value": 701892
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 701899,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "26yMNgAeD0Uuaq62WZHGXk"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 701898
+      },
+      "Name": {
+          "type": 1,
+          "value": "421 Plataforma DC y BE 128.80m"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 1029803
+      },
+      "Representation": {
+          "type": 5,
+          "value": 1029798
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 1029805,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "1AuNS1q29D2QO2VMPJVYti"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 1029804
+      },
+      "Name": {
+          "type": 1,
+          "value": "421 TanOutlet"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 1031118
+      },
+      "Representation": {
+          "type": 5,
+          "value": 1031113
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 1031120,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "1us0uB6Fr0cPS9aahVNWEt"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 1031119
+      },
+      "Name": {
+          "type": 1,
+          "value": "421 DC rectangular exp jt 01"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 1031251
+      },
+      "Representation": {
+          "type": 5,
+          "value": 1031246
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 1031253,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "0FCTqZyCf0mOqspPy2Pf5D"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 1031252
+      },
+      "Name": {
+          "type": 1,
+          "value": "421 DC Transition"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 1032263
+      },
+      "Representation": {
+          "type": 5,
+          "value": 1032258
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 1032265,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "1MZ6ZvUOvBSQCgiB3Ie_iZ"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 1032264
+      },
+      "Name": {
+          "type": 1,
+          "value": "421 DC Bend 01"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 1034280
+      },
+      "Representation": {
+          "type": 5,
+          "value": 1034275
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 1034282,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "1y52IOJiHEGvd2VCg$xD6i"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 1034281
+      },
+      "Name": {
+          "type": 1,
+          "value": "421 Escalera C7 Tramo 128.80m"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 1461952
+      },
+      "Representation": {
+          "type": 5,
+          "value": 1461947
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 1461954,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "2MG4jhLqH1tvCDequLCvza"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 1461953
+      },
+      "Name": {
+          "type": 1,
+          "value": "421 Escalera C7 Tramo diagonal"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 1747556
+      },
+      "Representation": {
+          "type": 5,
+          "value": 1747551
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 1747558,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "2an3JUfz1ASx18nwEAE2hE"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 1747557
+      },
+      "Name": {
+          "type": 1,
+          "value": "421 Plataforma Cyclone CN110"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 1755818
+      },
+      "Representation": {
+          "type": 5,
+          "value": 1755813
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 1755820,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "3DWjX9tkT0_wXmGgOLJ$f8"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 1755819
+      },
+      "Name": {
+          "type": 1,
+          "value": "IfcBuildingElementProxy421 Cyclone CN110_5"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 1802697
+      },
+      "Representation": {
+          "type": 5,
+          "value": 1802692
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 1802699,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "3kqwmPFYX2nfuoNDMWLeXc"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 1802698
+      },
+      "Name": {
+          "type": 1,
+          "value": "IfcBuildingElementProxy421 Cyclone CN110_4"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 1815941
+      },
+      "Representation": {
+          "type": 5,
+          "value": 1815936
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 1815943,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "1cFXzEyWj4w8dNPvMLIdlT"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 1815942
+      },
+      "Name": {
+          "type": 1,
+          "value": "421 Riser pipe 2-1"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 1979001
+      },
+      "Representation": {
+          "type": 5,
+          "value": 1978996
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 1979003,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "1gdnQH7aT22vk73mbfEsmX"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 1979002
+      },
+      "Name": {
+          "type": 1,
+          "value": "421 Plataforma N7 124m"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 2122553
+      },
+      "Representation": {
+          "type": 5,
+          "value": 2122548
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 2122555,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "2o9AObP_14BOFdVf53AQVl"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 2122554
+      },
+      "Name": {
+          "type": 1,
+          "value": "421 Estr. metalica perfiles W N7"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 2123595
+      },
+      "Representation": {
+          "type": 5,
+          "value": 2123590
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 2123597,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "1uJ9_ags59mPrftaUcSSph"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 2123596
+      },
+      "Name": {
+          "type": 1,
+          "value": "421 Plataforma N7 119.50m"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 2322970
+      },
+      "Representation": {
+          "type": 5,
+          "value": 2322965
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 2322972,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "1PDO55RO94DupH7Db8Ho29"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 2322971
+      },
+      "Name": {
+          "type": 1,
+          "value": "421 Plataforma N7 121.80m"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 2605571
+      },
+      "Representation": {
+          "type": 5,
+          "value": 2605566
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 2605573,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "3J$Sgx5X18KRPD6e_H5srd"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 2605572
+      },
+      "Name": {
+          "type": 1,
+          "value": "421 Dub Ladder Cyclone CN110"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 2630088
+      },
+      "Representation": {
+          "type": 5,
+          "value": 2630083
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 2630090,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "2FF8i5f49DAuSeUTeydDlQ"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 2630089
+      },
+      "Name": {
+          "type": 1,
+          "value": "421 Plataforma N7 Rampa"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 2632060
+      },
+      "Representation": {
+          "type": 5,
+          "value": 2632055
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 2632062,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "2KqUMNFMr5LhcqHkiKb0tV"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 2632061
+      },
+      "Name": {
+          "type": 1,
+          "value": "421 Cyclone CN110_3"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 2752171
+      },
+      "Representation": {
+          "type": 5,
+          "value": 2752166
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 2752173,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "1nd5UEz_T0OeAgEymGrUXc"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 2752172
+      },
+      "Name": {
+          "type": 1,
+          "value": "421 Escalera C7 Tramo 123m"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 3182089
+      },
+      "Representation": {
+          "type": 5,
+          "value": 3182084
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 3182091,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "0MgGsxwzj8Auu16a7B85dc"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 3182090
+      },
+      "Name": {
+          "type": 1,
+          "value": "421 Cyclone CN110_2"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 3285277
+      },
+      "Representation": {
+          "type": 5,
+          "value": 3285272
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 3285279,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "32yEHXSinFFvEEjfQjeJ9$"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 3285278
+      },
+      "Name": {
+          "type": 1,
+          "value": "421 Flow staightener platform"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 3288650
+      },
+      "Representation": {
+          "type": 5,
+          "value": 3288645
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 3288652,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "2u7xnYmi11pQ3C8dYt8y8I"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 3288651
+      },
+      "Name": {
+          "type": 1,
+          "value": "421 DC inspection doors"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 3289048
+      },
+      "Representation": {
+          "type": 5,
+          "value": 3289043
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 3289050,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "2BV9GgFBXFnxmr4MLSPtpG"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 3289049
+      },
+      "Name": {
+          "type": 1,
+          "value": "421 Flow staightener"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 3291141
+      },
+      "Representation": {
+          "type": 5,
+          "value": 3291136
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 3291143,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "2e8XU_Zi55EvdkLHvxQu7Y"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 3291142
+      },
+      "Name": {
+          "type": 1,
+          "value": "421 Gas Analysis AM820"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 3291631
+      },
+      "Representation": {
+          "type": 5,
+          "value": 3291626
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 3291633,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "3XXAWK5LzD0eQu80ccbHA9"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 3291632
+      },
+      "Name": {
+          "type": 1,
+          "value": "421 Losa colaborante N7"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 3291638
+      },
+      "Representation": {
+          "type": 5,
+          "value": 3293009
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 3293011,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "3AvVN0DE52zxexbL2_VObC"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 3293010
+      },
+      "Name": {
+          "type": 1,
+          "value": "421 Losa colaborante N7"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 3293016
+      },
+      "Representation": {
+          "type": 5,
+          "value": 3294387
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 3294389,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "199nCaGZD49AqFjUYIOqJi"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 3294388
+      },
+      "Name": {
+          "type": 1,
+          "value": "421 Losa colaborante N7"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 3294394
+      },
+      "Representation": {
+          "type": 5,
+          "value": 3295434
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 3295436,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "2k2kPi_nDDpxz0CtIoyFR9"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 3295435
+      },
+      "Name": {
+          "type": 1,
+          "value": "421 Losa colaborante N7"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 3295441
+      },
+      "Representation": {
+          "type": 5,
+          "value": 3296196
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 3296198,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "0AR8siyEP2T9QMiOWbKME7"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 3296197
+      },
+      "Name": {
+          "type": 1,
+          "value": "421 Losa colaborante N7"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 3296203
+      },
+      "Representation": {
+          "type": 5,
+          "value": 3296958
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 3296960,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "2wKIcRXqP289GEo1z68l2l"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 3296959
+      },
+      "Name": {
+          "type": 1,
+          "value": "421 Losa colaborante N7"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 3297929
+      },
+      "Representation": {
+          "type": 5,
+          "value": 3297924
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 3297931,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "23JPoI4Eb7BeikWsyzYwFB"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 3297930
+      },
+      "Name": {
+          "type": 1,
+          "value": "IfcBuildingElementProxy421 Cyclone CN110_1"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 3308387
+      },
+      "Representation": {
+          "type": 5,
+          "value": 3308382
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 3308389,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "03Q73$vj53exfphD1MbsNs"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 3308388
+      },
+      "Name": {
+          "type": 1,
+          "value": "421 Plataforma DC y BE 117.10m"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 3601028
+      },
+      "Representation": {
+          "type": 5,
+          "value": 3601023
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 3601030,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "01OxLkCiDAEwwbUoTl75gC"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 3601029
+      },
+      "Name": {
+          "type": 1,
+          "value": "421 DC Air receiver AM820"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 3612459
+      },
+      "Representation": {
+          "type": 5,
+          "value": 3612454
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 3612461,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "20kRO2_ZHAsOdX0FvJ$mLS"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 3612460
+      },
+      "Name": {
+          "type": 1,
+          "value": "421 DC Probe cleaning panel AM820"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 3613895
+      },
+      "Representation": {
+          "type": 5,
+          "value": 3613890
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 3613897,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "0O6MwBqFD9nPyRRcUSdu4S"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 3613896
+      },
+      "Name": {
+          "type": 1,
+          "value": "421 DC smoke sampler AM820"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 3614991
+      },
+      "Representation": {
+          "type": 5,
+          "value": 3614986
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 3614993,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "0a4qvFl311CujYVRZK3NXR"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 3614992
+      },
+      "Name": {
+          "type": 1,
+          "value": "421 Electrical Unit W015 N7"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 3615584
+      },
+      "Representation": {
+          "type": 5,
+          "value": 3615579
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 3615586,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "0mueiz0B54lAnr$22KNeU_"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 3615585
+      },
+      "Name": {
+          "type": 1,
+          "value": "421 Measuring hole DN100"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 3620985
+      },
+      "Representation": {
+          "type": 5,
+          "value": 3620980
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 3620987,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "0cp6E$DK5Fw9HWhLeShmhN"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 3620986
+      },
+      "Name": {
+          "type": 1,
+          "value": "421 Measuring point temp. IP850"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 3628091
+      },
+      "Representation": {
+          "type": 5,
+          "value": 3628086
+      },
+      "Tag": null
+  },
+  {
+      "expressID": 3628093,
+      "type": 2391406946,
+      "GlobalId": {
+          "type": 1,
+          "value": "2gmMJi3YPCawTRaf880kBs"
+      },
+      "OwnerHistory": {
+          "type": 5,
+          "value": 3628092
+      },
+      "Name": {
+          "type": 1,
+          "value": "421 Plataforma N6"
+      },
+      "Description": null,
+      "ObjectType": null,
+      "ObjectPlacement": {
+          "type": 5,
+          "value": 3938584
+      },
+      "Representation": {
+          "type": 5,
+          "value": 3938579
+      },
+      "Tag": null
+  }
+]
